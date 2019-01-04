@@ -11,3 +11,4 @@ i.times do
 puts l*(k += 1)
 end
 
+#normalement c'est bon 
